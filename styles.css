@@ -29,3 +29,7 @@ section{
     margin-bottom: 30px;
     font-size: 20px;
 }
+
+img{
+    max-width: 99%;
+}
